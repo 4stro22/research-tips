@@ -147,4 +147,4 @@ tags:
     -training
     - student sucess
 ---
-<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=4334711" width="1059" height="438" frameborder="0" allowfullscreen="allowfullscreen" title="CV/Cover Letter/Resume Tutorial"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://uclabruinlearn.h5p.com/content/1291800801752157208/embed" width="650" height="438" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *" aria-label="CV/Cover Letter/Resume Tutorial"></iframe><script src="https://uclabruinlearn.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
